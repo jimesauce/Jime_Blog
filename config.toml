@@ -1,4 +1,4 @@
-baseURL = "https://app.netlify.com/start/repos/jimesauce%2FJime_Blog"
+baseURL = "https://jimesauce/netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Mi blog"
